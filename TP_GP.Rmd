@@ -1,10 +1,7 @@
 ---
 title: "R Notebook"
 output: html_notebook
-Author: "AIT TAYEB Lyes
-         DZIRI Rayane
-         HAMMA Sofiane
-         COODIEN Govindarajen "
+Author: "DZIRI Rayane "
 ---
 #Préparation de l’environnement R et MongoDB
 ```{r}
@@ -486,4 +483,5 @@ issues_tailnums_col$insert(missing_tailnums)
 
 
 ```
+
 
